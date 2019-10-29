@@ -1,4 +1,4 @@
- body{
+body{
             background-color :lightgreen;
             text-align :center;
             background-image: url('image/bg.jpeg');
@@ -73,3 +73,4 @@
             height: 50px;
             background-color: rgba(4, 71, 71, 0.445); 
         }
+
